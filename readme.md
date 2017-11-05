@@ -3,6 +3,7 @@
 Generate a fantasy-style world map and history using several connected models in sequence. To see the overall output, see the [Model demo](https://github.com/dmasad/WorldBuilding/blob/master/Model%20demo.ipynb) Jupyter notebook.
 
 The maps it produces look like this:
+
 ![Image of world map](https://github.com/dmasad/WorldBuilding/blob/master/Cities.png)
 
 And the narratives it produces look like:
